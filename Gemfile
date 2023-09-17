@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in unit-tests-generator.gemspec
+# Specify your gem's dependencies in unit_tests_generator.gemspec
 gemspec
 
 gem "rake", "~> 13.0"

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "unit/tests/generator"
+require "unit_tests_generator"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

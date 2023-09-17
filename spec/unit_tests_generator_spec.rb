@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-RSpec.describe Unit::Tests::Generator do
+RSpec.describe UnitTestsGenerator do
   it "has a version number" do
-    expect(Unit::Tests::Generator::VERSION).not_to be nil
+    expect(UnitTestsGenerator::VERSION).not_to be nil
   end
 
   it "does something useful" do

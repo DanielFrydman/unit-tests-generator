@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/unit/tests/generator/version"
+require_relative "lib/unit_tests_generator/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "unit-tests-generator"
-  spec.version = Unit::Tests::Generator::VERSION
+  spec.name = "unit_tests_generator"
+  spec.version = UnitTestsGenerator::VERSION
   spec.authors = ["Daniel Frydman"]
   spec.email = ["danielfrydman@id.uff.br"]
 
